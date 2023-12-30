@@ -10,4 +10,4 @@ This project is a simple user interface application developed using React. The a
 # Used Technologies
 HTML-CSS-JS-REACT
 
-<img src="/pubic/personalcard.gif"     />
+<img src="/pubic/personalcard.gif"    />
